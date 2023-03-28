@@ -1,4 +1,13 @@
 # 3dmove
+
+// Daniel Shiffman
+// http://codingtra.in
+// https://youtu.be/IKB1hWWedMk
+// https://thecodingtrain.com/CodingChallenges/011-perlinnoiseterrain.html
+
+// Edited by SacrificeProductions
+
+
 let cols, rows;
 let scl = 20;
 let w = 1400;
